@@ -1,0 +1,116 @@
+{
+  "lock_date": "2026-03-02T20:00:00",
+  "oscars_date": "2026-03-02",
+  "categories": [
+    {
+      "id": "best_picture",
+      "name": "Best Picture",
+      "nominees": [
+        "Nominee 1",
+        "Nominee 2",
+        "Nominee 3",
+        "Nominee 4",
+        "Nominee 5"
+      ]
+    },
+    {
+      "id": "best_director",
+      "name": "Best Director",
+      "nominees": [
+        "Director 1",
+        "Director 2",
+        "Director 3",
+        "Director 4",
+        "Director 5"
+      ]
+    },
+    {
+      "id": "best_actor",
+      "name": "Best Actor",
+      "nominees": [
+        "Actor 1",
+        "Actor 2",
+        "Actor 3",
+        "Actor 4",
+        "Actor 5"
+      ]
+    },
+    {
+      "id": "best_actress",
+      "name": "Best Actress",
+      "nominees": [
+        "Actress 1",
+        "Actress 2",
+        "Actress 3",
+        "Actress 4",
+        "Actress 5"
+      ]
+    },
+    {
+      "id": "best_supporting_actor",
+      "name": "Best Supporting Actor",
+      "nominees": [
+        "Supporting Actor 1",
+        "Supporting Actor 2",
+        "Supporting Actor 3",
+        "Supporting Actor 4",
+        "Supporting Actor 5"
+      ]
+    },
+    {
+      "id": "best_supporting_actress",
+      "name": "Best Supporting Actress",
+      "nominees": [
+        "Supporting Actress 1",
+        "Supporting Actress 2",
+        "Supporting Actress 3",
+        "Supporting Actress 4",
+        "Supporting Actress 5"
+      ]
+    },
+    {
+      "id": "best_original_screenplay",
+      "name": "Best Original Screenplay",
+      "nominees": [
+        "Screenplay 1",
+        "Screenplay 2",
+        "Screenplay 3",
+        "Screenplay 4",
+        "Screenplay 5"
+      ]
+    },
+    {
+      "id": "best_adapted_screenplay",
+      "name": "Best Adapted Screenplay",
+      "nominees": [
+        "Adapted 1",
+        "Adapted 2",
+        "Adapted 3",
+        "Adapted 4",
+        "Adapted 5"
+      ]
+    },
+    {
+      "id": "best_animated_feature",
+      "name": "Best Animated Feature",
+      "nominees": [
+        "Animation 1",
+        "Animation 2",
+        "Animation 3",
+        "Animation 4",
+        "Animation 5"
+      ]
+    },
+    {
+      "id": "best_cinematography",
+      "name": "Best Cinematography",
+      "nominees": [
+        "Cinematography 1",
+        "Cinematography 2",
+        "Cinematography 3",
+        "Cinematography 4",
+        "Cinematography 5"
+      ]
+    }
+  ]
+}
